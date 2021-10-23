@@ -14,10 +14,6 @@ Ally- The Helper Bot is a voice based assistant that makes use of Neural Network
 7. Voice analysis.
 8. Facial analysis(if applicable).
 
-#### Architecture for Chatbot: 
-
-!(/chatbot_flow.PNG)
-
 > **Neural network-1:** _A network that analyses the text input and classifies it under 3 categories, finally decides upon what system to use:_
 > - Neutral conversations: _Where the system functions like a normal chatbot(**Neural network-2**)._
 > - Weak-Emotion conversation: _Where the system generates emotional responses(**Neural network-3**)._
